@@ -1,0 +1,5 @@
+{
+  "name": "Uninformed Search Explorer",
+  "description": "An interactive pedagogical tool for exploring Breadth-First Search (BFS), Depth-First Search (DFS), and Uniform-Cost Search (UCS) algorithms with real-time visualization, performance analysis, and AI-powered deep dives.",
+  "requestFramePermissions": []
+}
